@@ -1,6 +1,10 @@
 # svg-mustache-python
 A simple example of using Python to generate SVG content using mustache templates
 
+## what you need
+* Python 2.7 (https://www.python.org/downloads/)
+* PyCharm IDE (or another way of writing and running code and opening web pages from a local server)
+
 ## getting started
 * clone this repository to your computer and open it in PyCharm
 * run `pip install pystache` (or right click on the word `pystache` and PyCharm can do this for you)
